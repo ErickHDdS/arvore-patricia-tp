@@ -2,11 +2,11 @@
 
 ## Instruções para execução:
 
- 1. Acesse a pasta "src" 
+ 1. Acesse a pasta "Arvore" 
  2. Compila o código "Main.java"
  `javac Main.java `
  3. Rode o código bytecode "Main.class" passando como parâmetro de execução o caminho para um arquivo de exemplo.
- `java mrbi ./exemples/Exemplo1.txt`
+ `java Main ./Exemplo1.txt`
     
 
 ## Realizado por:
